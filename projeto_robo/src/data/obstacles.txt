@@ -1,0 +1,4 @@
+Obstacle (color 0) found at position (2, 2)
+Obstacle (color 0) found at position (3, 2)
+Obstacle (color 0) found at position (5, 3)
+Obstacle (color 0) found at position (5, 1)

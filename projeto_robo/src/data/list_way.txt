@@ -1,0 +1,10 @@
+List elements:
+bronze
+silver
+charge_impossible
+free_2_go
+bronze
+silver
+free_2_go
+gold
+free_2_go

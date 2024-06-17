@@ -1,0 +1,4 @@
+Silver found at position (3, 1)
+silver
+Silver found at position (7, 4)
+silver

@@ -1,0 +1,4 @@
+impossibility of loading found at position (6, 3)
+Impossible to charge
+impossibility of loading found at position (8, 4)
+Impossible to charge

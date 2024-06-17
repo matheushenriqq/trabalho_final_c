@@ -1,0 +1,2 @@
+Gold found at position (1, 1)
+gold

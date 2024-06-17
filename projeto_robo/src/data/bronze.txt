@@ -1,0 +1,4 @@
+Bronze found at position (4, 2)
+bronze
+Bronze found at position (7, 5)
+bronze
